@@ -1,0 +1,16 @@
+# Core and API
+flask
+pandas
+numpy
+joblib
+
+# For Conversation Module
+sentence-transformers
+
+# For Vision and Recommendation Modules
+torch
+torchvision
+scikit-learn
+Pillow
+matplotlib
+tqdm
